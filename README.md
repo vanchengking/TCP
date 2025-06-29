@@ -27,11 +27,7 @@
 
   * **操作系统**:  Windows 11
   * **Python 版本**: python 3.12.6（不唯一仅作参考）
-  * **需要安装的库**: `pandas` (仅Task2的客户端需要)
-      * 安装命令:
-        ```bash
-        pip install pandas
-        ```
+
 
 -----
 
